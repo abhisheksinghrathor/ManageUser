@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.csprojAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\ManageUser\obj\Debug\net5.0\ManageUser.MvcApplicationPartsAssemblyInfo.cache
